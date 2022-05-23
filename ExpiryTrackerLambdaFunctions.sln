@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpiryTracker-List", "ExpiryTracker-List\ExpiryTracker-List.csproj", "{8F832FF7-28EB-4AF8-9814-8E0624672E42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpiryTracker-CreateUpdate", "ExpiryTracker-AddItem\ExpiryTracker-CreateUpdate.csproj", "{F04B3F39-3857-4242-920E-707E5FD26D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F832FF7-28EB-4AF8-9814-8E0624672E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F832FF7-28EB-4AF8-9814-8E0624672E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F832FF7-28EB-4AF8-9814-8E0624672E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F832FF7-28EB-4AF8-9814-8E0624672E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04B3F39-3857-4242-920E-707E5FD26D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04B3F39-3857-4242-920E-707E5FD26D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04B3F39-3857-4242-920E-707E5FD26D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04B3F39-3857-4242-920E-707E5FD26D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC10184F-4861-4066-8A01-4A53B97976E6}
+	EndGlobalSection
+EndGlobal
