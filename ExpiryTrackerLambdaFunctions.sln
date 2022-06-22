@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpiryTracker-Delete", "Exp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreezerTracker-List", "FreezerTracker-List\FreezerTracker-List.csproj", "{10EBE85B-778E-4B29-A360-C9A844D55C67}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreezerTracker-CreateUpdate", "FreezerTracker-CreateUpdate\FreezerTracker-CreateUpdate.csproj", "{E5132491-E67B-4513-B740-8CB2B43ECDA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreezerTracker-Delete", "FreezerTracker-Delete\FreezerTracker-Delete.csproj", "{2B5F331C-0627-4A48-85FF-A1AC0C14B6A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{10EBE85B-778E-4B29-A360-C9A844D55C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10EBE85B-778E-4B29-A360-C9A844D55C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10EBE85B-778E-4B29-A360-C9A844D55C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5132491-E67B-4513-B740-8CB2B43ECDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5132491-E67B-4513-B740-8CB2B43ECDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5132491-E67B-4513-B740-8CB2B43ECDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5132491-E67B-4513-B740-8CB2B43ECDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5F331C-0627-4A48-85FF-A1AC0C14B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5F331C-0627-4A48-85FF-A1AC0C14B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5F331C-0627-4A48-85FF-A1AC0C14B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5F331C-0627-4A48-85FF-A1AC0C14B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

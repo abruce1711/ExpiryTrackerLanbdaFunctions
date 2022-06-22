@@ -12,9 +12,9 @@
     "function-runtime" : "dotnet6",
     "function-memory-size" : 256,
     "function-timeout"     : 30,
-    "function-handler"     : "FreezerTracker-List::FreezerTracker_List.Function::FunctionHandler",
+    "function-handler"     : "FreezerTracker-CreateUpdate::FreezerTracker_CreateUpdate.Function::FunctionHandler",
     "framework"            : "net6.0",
-    "function-name"        : "FreezerTracker-List",
+    "function-name"        : "FreezerTracker-CreateUpdate",
     "package-type"         : "Zip",
     "function-role"        : "arn:aws:iam::898710351188:role/expiry-tracker-lambda-role",
     "function-architecture" : "x86_64",
@@ -22,6 +22,5 @@
     "function-security-groups" : "",
     "tracing-mode"             : "PassThrough",
     "environment-variables"    : "\"FREEZER_TRACKER_TABLE_NAME\"=\"FreezerTracker\"",
-    "image-tag"                : "",
-    "function-description"     : ""
+    "image-tag"                : ""
 }
